@@ -5,4 +5,5 @@ You can get this poject by git clonning </br>
 </br>
 ## Features
 - [x] Hand Gesture Training and Classification
+</br>
 *NOTE:* This will disable video call functionality.
