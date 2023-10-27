@@ -14,8 +14,11 @@ It is then connected to a front end that is written in `HTML5` , `CSS`and `JavaS
 </br>
 NOTE: You might need to install some more modules depending on your python environment.
 </br>
+
 ## Running
 You just need to run ```$ python3 api.py``` and just open ```index.html``` in your browser and drag and drop the scan  pictuer and the go.
+</br>
 ## Credits
 
 * [Mr. Paul Akampurira] My DataMining Lectuerer
+* [edcorp844] Frost Edson
