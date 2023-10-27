@@ -8,8 +8,14 @@ It is then connected to a front end that is written in `HTML5` , `CSS`and `JavaS
 ## Python Modules
 - [x] flask
 - [X] tensorflow
-- [ ] Pandas
-- [ ] Numpy
-- [ ] Matplotlib 
+- [X] Pandas
+- [X] Numpy
+- [X] Matplotlib 
 </br>
-*NOTE:* This will disable video call functionality.
+NOTE: You might need to install some more modules depending on your python environment.
+</br>
+## Running
+You just need to run ```$ python3 api.py``` and just open ```index.html``` in your browser and drag and drop the scan  pictuer and the go.
+## Credits
+
+* [Mr. Paul Akampurira] My DataMining Lectuerer
